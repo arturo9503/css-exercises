@@ -17,3 +17,8 @@ button {
   padding: 16px 24px;
   text-align: center;
 }
+
+.grow:hover {
+  transition: all .2s ease-in-out;
+  transform: scale(1.1);
+}
