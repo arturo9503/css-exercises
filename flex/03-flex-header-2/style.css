@@ -46,3 +46,49 @@ a {
 ul {
   list-style-type: none;
 }
+
+
+/* Solution */
+
+.header{
+  display: flex;
+}
+
+.right-items {
+  display: flex;
+  margin: 8px;
+  align-items: right;
+  position: absolute;
+  right: 0;
+}
+
+.left-items {
+
+  display: flex;
+
+}
+
+.links {
+  display: flex;
+  margin: 8px;
+}
+
+.links > li{
+  margin: 8px;
+}
+
+.notifications {
+  margin-right: 8px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
