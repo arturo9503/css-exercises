@@ -24,3 +24,23 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/* Solution */
+
+.title {
+  text-align: center;
+}
+
+.items{
+  display: flex;
+  gap: 8px;
+}
+
+.item1, .item2, .item3, .item4{
+  text-align: center;
+  align-items: center;
+}
+
+
+
+
