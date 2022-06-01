@@ -25,3 +25,50 @@ input {
   width: 400px;
   margin-bottom: 16px;
 }
+
+/* SOLUTION */
+
+.header, .footer {
+  display: flex;
+}
+
+.left-links, .right-links {
+  list-style: none;
+  display: flex;
+  text-decoration: none;
+}
+
+.left-links {
+  margin-right: auto;
+  gap: 8px;
+}
+
+.right-links {
+  margin: 20px;
+  gap: 8px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+.footer {
+  background-color: lightgray;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+}
+
+.content{
+  text-align: center;
+  margin-top: 80px;
+}
+
+
+
+
+
+
+
+
