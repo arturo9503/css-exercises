@@ -26,3 +26,23 @@ body {
   padding: 0px;
   margin-left: 0px;
 }
+
+/* SOLUTION */
+
+.one {
+  padding: 32px;
+  margin-bottom: 12px;
+}
+
+.two {
+  margin-bottom: 48px;
+
+}
+
+.three {
+  padding: 32px;
+  margin-left: auto;
+}
+
+
+
